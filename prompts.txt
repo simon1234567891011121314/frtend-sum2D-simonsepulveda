@@ -36,3 +36,29 @@ Sure, here's a proposed directory structure for a web project:
 
 Create Workspace…
 
+Uso en el proyecto: Para generar la estructura del código.
+
+Reflexión personal: Obtuve lo que esperaba, ofreciéndome código más allá del index.html, que es lo que tenía en mente exclusivamente.
+
+Gracias, ahora necesito subir esto al repositorio de Github junto a un commit, me ayudas a añadirlo pls?
+
+Claro, aquí tienes los pasos para subir tu proyecto al repositorio de GitHub junto con un commit:
+
+Inicializa el repositorio (si aún no lo has hecho): Abre la terminal en la carpeta de tu proyecto y ejecuta:
+
+Añade los archivos al área de preparación (staging):
+
+Crea un commit con un mensaje descriptivo:
+
+Conecta tu repositorio local con el repositorio remoto en GitHub: Si aún no tienes un repositorio remoto, crea uno en GitHub y copia la URL. Luego, ejecuta:
+
+Sube los cambios al repositorio remoto:
+
+Si tu rama principal se llama master en lugar de main, usa master en el comando.
+
+¡Y listo! Tu proyecto estará subido al repositorio de GitHub.
+
+Uso en el proyecto: Para generar el commit1.
+
+Reflexión personal: Obtuve lo que esperaba (los comandos).
+
