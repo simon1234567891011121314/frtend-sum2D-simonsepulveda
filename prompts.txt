@@ -1,0 +1,38 @@
+#1 Etapa del proyecto: 1
+
+Fecha: 20-05-2026
+
+Prompt enviado a Copilot: Hola, puedes mostrarme el ingresar el username y usermail en git pls? c:
+
+Respuesta recibida: Claro, aquí tienes un ejemplo de cómo ingresar el nombre de usuario (username) y el correo electrónico (usermail) en Git desde la terminal:
+
+Explicación:
+--global: Aplica la configuración a nivel global (para todos los repositorios en tu sistema). Si deseas configurarlo solo para un repositorio específico, elimina --global y ejecuta los comandos dentro del directorio del repositorio.
+user.name: Es el nombre que aparecerá en los commits.
+user.email: Es el correo asociado a los commits.
+Si necesitas verificar que se configuraron correctamente, usa:
+
+Esto mostrará la configuración global actual.
+
+Uso en el proyecto: Para poder ingresar el nombre de usuario y el correo desde la terminal con los comandos git.
+
+Reflexión personal: Obtuve lo que esperaba al recibir el comando que había olvidado.
+
+#2 Etapa del proyecto: 1
+
+Fecha: 20-05-2026
+
+Prompt enviado a Copilot: Gracias, ahora me puedes ayudar con el siguiente enunciado?
+
+Se busca crear una página web de una empresa que realiza diagnósticos y mantenimiento a computadores y otros dispositivos, entonces, el primer paso sería realizar la página de inicio.
+
+Esta página de inicio debe tener: Profesionalismo técnico, una forma clara de comunicar sus servicios, y dirigir al visitante hacia la página de formulario de ingreso del equipo. Luego se le añadirán otras cosas, pero me gustaría una base del código antes de eso pls
+
+Respuesta recibida:
+
+Sure, here's a proposed directory structure for a web project:
+
+(Muestra una estructura similar pero no exacta a la que indica la E2, junto a los respectivos códigos que generó)
+
+Create Workspace…
+
